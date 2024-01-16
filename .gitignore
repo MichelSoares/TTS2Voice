@@ -1,0 +1,91 @@
+# Ignorar arquivos temporários que são criados pelo Visual Studio
+.vscode
+.vs
+
+# Ignorar arquivos de compilação, executáveis e arquivos de dependências
+bin
+obj
+.exe
+.dll
+
+# Ignorar arquivos de configuração do Visual Studio
+.user
+.suo
+.suo.user
+.sln.docstates
+
+# Ignorar diretórios específicos do Visual Studio
+_ReSharper
+ReSharper
+.resharper
+[Tt]humbs.db
+[Tt]est[Rr]esult
+.bds
+[Bb]in
+[Dd]ebug
+[Rr]elease
+x64
+x86
+[Aa][Rr][Mm]
+[Aa][Rr][Mm]64
+[Ll]og
+[Ll]ogs
+[Ll]ib
+[Ll]ibrary
+
+# Ignorar arquivos de usuário e configuração
+.user
+.userosscache
+.suo
+.userprefs
+.sln.docstates
+
+# Ignorar arquivos do Rider
+.idea
+.sln.iml
+
+# Ignorar pacotes NuGet
+packages
+.nupkg
+# Package directory
+[Oo]bj
+[Bb]in
+[Ll]og
+
+# Ignorar arquivos do Windows
+Thumbs.db
+ehthumbs.db
+
+# Ignorar arquivos de texto
+.txt
+.md
+
+# Ignorar arquivos de compilação
+.pdb
+.mdb
+
+# Ignorar arquivos de projeto
+.csproj
+.xaml.csproj
+
+# Ignorar arquivos temporários de compilação
+.cache
+.log
+.zip
+.rar
+
+# Ignorar arquivos de solução
+.suo
+.user
+
+# Ignorar arquivos de configuração do Rider
+.idea
+
+# Ignorar arquivos de configuração
+.vscode
+.suo
+.user
+
+# Ignorar diretórios de saída de compilação
+bin
+obj
